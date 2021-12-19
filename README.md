@@ -1,2 +1,2 @@
 # HangMan
-#https://sulnar7.github.io/HangMan/
+# https://sulnar7.github.io/HangMan/
